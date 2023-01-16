@@ -1,19 +1,19 @@
 // without comments
 function countingValleys(steps, path) {
-    let valleyCounter = 0;
+    let valleyCount = 0;
     let altitude = 0;   
     for(let i =0; i<steps; i++){
         let char = path.charAt(i);
         if(char === "U"){
             altitude++;
             if(altitude === 0){
-                valleyCounter++;
+                valleyCount++;
             }
         }else{
             altitude--;
         }
     }
-    return valleyCounter;
+    return valleyCount;
 }
 
 
