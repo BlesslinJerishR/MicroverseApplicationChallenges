@@ -10,5 +10,5 @@
 > Counting Valleys
 ---
 
-- Okay , Lets see the Python code now
+- Okay , Lets see Python code now
 #### [ Developer: Blesslin Jerish R ]
