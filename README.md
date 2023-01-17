@@ -9,6 +9,4 @@
 >
 > Counting Valleys
 ---
-
-- Okay , Lets see Python code now
 #### [ Developer: Blesslin Jerish R ]
